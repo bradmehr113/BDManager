@@ -1,0 +1,2 @@
+# BDManager
+parnak
